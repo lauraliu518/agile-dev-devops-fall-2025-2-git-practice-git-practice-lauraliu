@@ -20,5 +20,5 @@ Please feel free to fork this repository and let you know what you think!
 
 Added comment by Catherine Gomes
 
-
+I also found this article really interesting because AI is being used to improve the testing process for software developers. However, there are new guidelines which companies are creating to regulate AI. For instance, the article discusses avoiding to input real customer information into test environments due to data leaks and security breaches. Test data must also be very precise to avoid false tests. While using AI can seem like an easy solution, there are still some limitations at the moment.
 
